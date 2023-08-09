@@ -1,0 +1,35 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 22px;
+}
+
+.heading button
+{
+    float: right;
+}
+
+.modal-body
+{
+    text-align: left;
+}
+
+canvas
+{
+    border-radius: 5;
+    box-shadow: 3px 3px 3px  white;
+    border: 2px solid white;
+}
